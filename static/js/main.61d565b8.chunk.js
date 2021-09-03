@@ -1,2 +1,0 @@
-(this["webpackJsonpintro-react"]=this["webpackJsonpintro-react"]||[]).push([[0],{10:function(t,n,e){"use strict";e.r(n);e(1);var r=e(3),c=e.n(r),o=(e(8),e(0));var i=function(){return Object(o.jsx)("h1",{children:"Hola Mundo"})};c.a.render(Object(o.jsx)(i,{}),document.getElementById("root"))},8:function(t,n,e){}},[[10,1,2]]]);
-//# sourceMappingURL=main.61d565b8.chunk.js.map
